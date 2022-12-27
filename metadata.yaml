@@ -1,0 +1,33 @@
+_repo: Ornithological-biography-Vol-3-of-5-An-account-of-the-habits-of-the-birds-of-the-United-State__69403
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Audubon, John James
+    aliases:
+    - Audubon, Jean Jacques Fougère
+    - Rabin, Jean
+    - Audubon, Jean Jacques Fougere
+    birthdate: 1785
+    deathdate: 1851
+    gutenberg_agent_id: '41878'
+    url: http://www.gutenberg.org/2009/agents/41878
+    wikipedia: https://en.wikipedia.org/wiki/John_James_Audubon
+description: ''
+gutenberg_issued: '2022-11-21'
+identifiers:
+  gutenberg: '69403'
+language: en
+pgterms:marc904: https://archive.org/details/ornithologicalbi03audu
+production_note: Melissa McDaniel, Rachael Schultz, David Garcia, Charlene Taylor,
+  Thierry Alberto and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Birds -- North America'
+- !lcc 'QL'
+- GITenberg
+title: "Ornithological biography, Vol. 3 (of 5)\r\nAn account of the habits of the\
+  \ birds of the United States of America"
+url: http://www.gutenberg.org/ebooks/69403
