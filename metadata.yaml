@@ -1,5 +1,8 @@
 _repo: Ornithological-biography-Vol-3-of-5-An-account-of-the-habits-of-the-birds-of-the-United-State__69403
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69403-h/images/cover.png
 creator:
   author:
     agent_name: Audubon, John James
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41878
     wikipedia: https://en.wikipedia.org/wiki/John_James_Audubon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69403#Ornithological-biography-Vol-3-of-5-An-account-of-the-habits-of-the-birds-of-the-United-State_
 gutenberg_issued: '2022-11-21'
 identifiers:
   gutenberg: '69403'
